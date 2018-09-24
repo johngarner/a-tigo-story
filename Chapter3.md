@@ -1,5 +1,6 @@
 # Chapter 3
 
 While the troll was furiously chasing the frightened villagers, he tripped over a rock.
-
-He screamed in rage as his large, tree like body slammed to the ground. 
+His knee bled and bled, the blood ran like a river over the streets of the village.
+People were drowning in the blood; it was pretty disgusting.
+The troll, as he continued to bleed, uttered a single "Yuck".
