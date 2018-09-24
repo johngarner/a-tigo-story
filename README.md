@@ -1,6 +1,6 @@
 title: a-tigo-story
 team: TIGO
-description: a beautiful troll scares away unsuspecting bridge-crossers with his beauty.
+description: a beautiful troll scares away unsuspecting bridge-crossers.
 
 chapter1: The troll awakens.
 chapter2: The troll runs.
