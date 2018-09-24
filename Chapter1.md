@@ -1,3 +1,5 @@
+# Chapter 1
+
 It was a Tuesday and the troll was sleeping under a bridge.
 But this wasn't any ordinary bridge, but in fact the troll's bridge.
 The crossing was maintained by generations of this troll's family going all the way back to his great-great-great-great-great-great-great-great-great-grandmother.
@@ -7,3 +9,5 @@ On this fine morning, our friendly caretaker is awoken by a group of boisterous 
 
 
 This better be a conflict
+
+ENDING TO FORCE CONFLICT
