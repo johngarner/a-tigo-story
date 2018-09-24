@@ -7,6 +7,11 @@ Most people think that trolls are awful creature that block humans from crossing
 For those with not enough money, this troll even allows for humans to cross for free, only having to answer three very easy riddles.
 On this fine morning, our friendly caretaker is awoken by a group of boisterous humans, rudely crossing his bridge!
 
+
 Merge conflicts, plzzzz!
+
+
+This better be a conflict
+
 
 ENDING TO FORCE CONFLICT
