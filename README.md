@@ -1,8 +1,8 @@
 # This is a in-class activity that was used to force merge conflicts.
 
-Title: A TIGO Story\
-Team: TIGO\
-Description: A beautiful troll scares away unsuspecting bridge-crossers.\
+Title: A TIGO Story
+Team: TIGO
+Description: A beautiful troll scares away unsuspecting bridge-crossers.
 
 Table of contents:
 
