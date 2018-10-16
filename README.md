@@ -1,8 +1,12 @@
-title: a-tigo-story
-team: TIGO
-description: a beautiful troll scares away unsuspecting bridge-crossers.
+# This is a in-class activity that was used to force merge conflicts.
 
-chapter1: The troll awakens.
-chapter2: The troll runs.
-chapter3: The troll trips.
-chapter4: The troll slumbers.
+Title: A TIGO Story
+Team: TIGO
+Description: A beautiful troll scares away unsuspecting bridge-crossers.
+
+Table of contents:
+
+Chapter1.md - The troll awakens.
+Chapter2.md - The troll runs.
+Chapter3.md - The troll trips.
+Chapter4.md - The troll slumbers.
